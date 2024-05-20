@@ -1,0 +1,12 @@
+float a;
+void func(){
+	a=12.50;
+	if (a >= 12)
+	{
+		return 0;
+	}
+	else
+	{
+		return 1;
+	}
+}

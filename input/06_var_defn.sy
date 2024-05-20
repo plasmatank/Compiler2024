@@ -1,0 +1,5 @@
+float a;
+void func(){
+	a=12.50;
+	return 0;
+}
